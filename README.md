@@ -2,16 +2,14 @@
 
 **AI Engineer · Independent Researcher · LLM Agents & Computer Vision**
 
-I build AI applications and run research on language-model agents, with a focus on what small,
-local models can and cannot do. I'm pursuing a **BS in Computer Science (AI) at Sukkur IBA
+I build AI applications and do research across AI, agents and computer science. I'm pursuing a **BS in Computer Science (AI) at Sukkur IBA
 University, expected August 2027**.
 
 [LinkedIn](https://www.linkedin.com/in/asadsaleemsahto/) · [Kaggle](https://www.kaggle.com/asadsahto) · [Portfolio](https://asadsahto.netlify.app/) · [Email](mailto:asadsaleemsahto@gmail.com)
 
 ### Research
 
-**[Self-Improving Harnesses Below the Capability Floor: Continual Harness with Small Local Language Models](https://github.com/asadsehto/continual-harness-small-models)**
-Asad Saleem, 2026 · paper, code, tasks and data
+**[Self-Improving Harnesses Below the Capability Floor](https://github.com/asadsehto/continual-harness-small-models)** (2026)
 
 Can a small model running on a laptop rewrite its own prompt, memory and tools and get better?
 I re-implemented Continual Harness (Karten et al., 2026) for local Ollama models and tested it on
@@ -30,9 +28,6 @@ I re-implemented Continual Harness (Karten et al., 2026) for local Ollama models
   grounded question answering, and evaluation of multi-step agent workflows. The public
   [thesis workspace](https://github.com/asadsehto/fyp) includes an Aura desktop recording assistant
   and portal-automation work.
-- **Computer vision research** — Deformable DETR experiments on VisDrone, with a reported mAP
-  improvement from **27 to 49**, and ablations on input resolution, object queries, and multiscale
-  features.
 
 ### Experience
 
@@ -52,7 +47,6 @@ automation, and data-extraction pipelines.
 | --- | --- |
 | [Continual Harness on small models](https://github.com/asadsehto/continual-harness-small-models) | Research code for the paper above: agent loop, sandbox, self-editing refiner, five safeguards, 20 tasks with checkers, and released data. |
 | [ProfDesk](https://github.com/asadsehto/profdesk) | Self-hosted assistant that puts Claude, ChatGPT and a private local model in one chat, usable from a phone. Built for teachers. |
-| [LecAssist / Aura](https://github.com/asadsehto/fyp) | React/TypeScript and Electron desktop assistant with FastAPI, lecture transcription, summaries, and SQLite storage. |
 | [Tribunal](https://tribunal.app) | Multi-agent reasoning platform exploring structured debate, counterarguments, and synthesis with Python, TypeScript, Node.js, and LLM APIs. |
 | [Quantum-RAG](https://github.com/asadsehto/Quantum-RAG) | Python semantic-retrieval prototype with chunking, embeddings, vector search, and separate quantum-inspired experiments. |
 | [Rizzume](https://github.com/asadsehto/rizzume) | Resume builder connecting a React interface to Flask and LaTeX PDF generation. |
