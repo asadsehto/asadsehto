@@ -22,6 +22,12 @@ I re-implemented Continual Harness (Karten et al., 2026) for local Ollama models
 - Reported with paired exact tests, Holm correction, per-seed results and a released dataset of
   1,256 runs; one command rebuilds every table.
 
+### Open source
+
+- **[trafilatura](https://github.com/adbar/trafilatura)** (7k★, ~13M downloads/month): fixed `target_language`
+  discarding every page for languages the detector cannot identify, such as Sindhi
+  ([#1113](https://github.com/adbar/trafilatura/pull/1113), merged).
+
 ### Current focus
 
 - **LecAssist** — my agentic academic-assistance thesis (2026–2027), exploring lecture transcription,
